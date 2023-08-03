@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Introduction.unity
+    guid: 5b9e79fc8edc2ff4fb647174841bf107
+  - enabled: 1
+    path: Assets/Scenes/MainScreen.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 37cb74a7bbb217d4790a04cdb74ae9f9
+  - enabled: 1
+    path: Assets/Scenes/TutorialVideo.unity
+    guid: 262932ee4b9299a48ad543e24f4f888a
+  - enabled: 1
+    path: Assets/Scenes/GameModes.unity
+    guid: d98aee72629b14645b12d853c3f4c139
+  - enabled: 1
+    path: Assets/Scenes/HardMode.unity
+    guid: 02e849b0432db2a4c9a1b2e750a5681a
+  - enabled: 1
+    path: Assets/Scenes/Options.unity
+    guid: 6205cb3cb1e889c4aa29578ab4ccd433
+  - enabled: 1
+    path: Assets/Scenes/EasyLevel1.unity
+    guid: 491ec2c1ac9613c4d9d3dc4706ae7046
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 12305d98613a49b4c9fad28a5e3e931c
+  - enabled: 1
+    path: Assets/Scenes/EasyMode.unity
+    guid: d60d2191efec92a4d8f9d15a524cf482
+  - enabled: 1
+    path: Assets/Scenes/MediumMode.unity
+    guid: eaf8a327428be0548aebcb6b8c256c0a
+  - enabled: 1
+    path: Assets/Scenes/EasyLevel2.unity
+    guid: 88e721a842391d7428690d0519864c12
+  - enabled: 1
+    path: Assets/Scenes/EasyLevel3.unity
+    guid: f1f38250361ff9a4e9ae5cd2a6016970
+  - enabled: 1
+    path: Assets/Scenes/MediumLevel1.unity
+    guid: 95752fc022002af4084b813f2403cf46
+  - enabled: 1
+    path: Assets/Scenes/MediumLevel2.unity
+    guid: d3f34d5a3c33dcb4ebdd38dd2f12de42
+  - enabled: 1
+    path: Assets/Scenes/MediumLevel3.unity
+    guid: 8481c01e51be3d641b73f269b0801d82
+  - enabled: 1
+    path: Assets/Scenes/HardLevel1.unity
+    guid: 324e2432401a21f4bad893fbe2bebf2f
+  - enabled: 1
+    path: Assets/Scenes/HardLevel2.unity
+    guid: 073692497fc040844a57af8fe6595e92
+  - enabled: 1
+    path: Assets/Scenes/About.unity
+    guid: 99873abc8812e1143a7376ce819f8370
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 11bdb36aa33345948a7c31ae0160d062
+  - enabled: 1
+    path: Assets/Scenes/HardLevel3.unity
+    guid: 476dbb93244c0ef4c93648ebbe5b3897
+  - enabled: 1
+    path: Assets/Scenes/GameComplete.unity
+    guid: 95ac1919c15d51240aaab1d5e90a1746
+  - enabled: 1
+    path: Assets/Scenes/WinScreen1.unity
+    guid: 97c5652a51f2893489bf0d52521c8341
+  m_configObjects: {}
